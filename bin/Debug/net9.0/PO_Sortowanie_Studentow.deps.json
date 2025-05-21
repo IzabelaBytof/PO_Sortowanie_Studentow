@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PO_Sortowanie_Studentow/1.0.0": {
+        "runtime": {
+          "PO_Sortowanie_Studentow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PO_Sortowanie_Studentow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\bin\Debug\net9.0\PO_Sortowanie_Studentow.exe
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\bin\Debug\net9.0\PO_Sortowanie_Studentow.deps.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\bin\Debug\net9.0\PO_Sortowanie_Studentow.runtimeconfig.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\bin\Debug\net9.0\PO_Sortowanie_Studentow.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\bin\Debug\net9.0\PO_Sortowanie_Studentow.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\obj\Debug\net9.0\PO_Sortowanie_Studentow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\obj\Debug\net9.0\PO_Sortowanie_Studentow.AssemblyInfoInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\obj\Debug\net9.0\PO_Sortowanie_Studentow.AssemblyInfo.cs
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\obj\Debug\net9.0\PO_Sortowanie_Studentow.csproj.CoreCompileInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\obj\Debug\net9.0\PO_Sortowanie_Studentow.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\obj\Debug\net9.0\refint\PO_Sortowanie_Studentow.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\obj\Debug\net9.0\PO_Sortowanie_Studentow.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\obj\Debug\net9.0\PO_Sortowanie_Studentow.genruntimeconfig.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Sortowanie_Studentow\obj\Debug\net9.0\ref\PO_Sortowanie_Studentow.dll
